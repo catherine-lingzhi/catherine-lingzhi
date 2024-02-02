@@ -31,4 +31,4 @@ I'm a recent graduate from Red River College with a passion for programming. Cur
 
 - LinkedIn:https://www.linkedin.com/in/lingzhi-luo-789643171
 - Email: lingzhicatherine@gmail.com
-
+Feel free to check out my repositories and connect with me. Let's build something amazing together! 🚀
